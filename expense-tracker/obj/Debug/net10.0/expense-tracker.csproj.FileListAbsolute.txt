@@ -1,0 +1,14 @@
+d:\Expense Tracker\expense-tracker\bin\Debug\net10.0\expense-tracker.exe
+d:\Expense Tracker\expense-tracker\bin\Debug\net10.0\expense-tracker.deps.json
+d:\Expense Tracker\expense-tracker\bin\Debug\net10.0\expense-tracker.runtimeconfig.json
+d:\Expense Tracker\expense-tracker\bin\Debug\net10.0\expense-tracker.dll
+d:\Expense Tracker\expense-tracker\bin\Debug\net10.0\expense-tracker.pdb
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.GeneratedMSBuildEditorConfig.editorconfig
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.AssemblyInfoInputs.cache
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.AssemblyInfo.cs
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.csproj.CoreCompileInputs.cache
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.dll
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\refint\expense-tracker.dll
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.pdb
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\expense-tracker.genruntimeconfig.cache
+d:\Expense Tracker\expense-tracker\obj\Debug\net10.0\ref\expense-tracker.dll
